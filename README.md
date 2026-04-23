@@ -3,7 +3,7 @@
 A curated repository of `DESIGN.md` files for AI agents (like Claude, Gemini, Cursor, and v0) to instantly generate styled, brand-specific, and atmospheric UI/UX mockups rather than generic, default layouts.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/flowstxte/ShieldEye/refs/heads/main/ss1.png"/>
+  <img src="https://raw.githubusercontent.com/flowstxte/DesignSkills/refs/heads/main/claude_design.jpg" width=60%/>
 </p>
 
 ---
