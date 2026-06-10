@@ -5,7 +5,7 @@ A curated repository of `DESIGN.md` files for AI agents (like Claude, Gemini, Cu
 **Live Site**: [DesignSkills](https://designskills-i.vercel.app/)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/flowstxte/DesignSkills/refs/heads/main/ss.jpg" width=60%/>
+  <img src="https://raw.githubusercontent.com/flowstxte/DesignSkills/refs/heads/main/ss.jpg" width=80%/>
 </p>
 
 ---
