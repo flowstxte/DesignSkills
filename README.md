@@ -2,7 +2,7 @@
 
 A curated repository of `DESIGN.md` files for AI agents (like Claude, Gemini, Cursor, and v0) to instantly generate styled, brand-specific, and atmospheric UI/UX mockups rather than generic, default layouts.
 
-**Live Site**: [DesignSkills](https://design-skills-one.vercel.app/)
+**Live Site**: [DesignSkills](https://designskills-i.vercel.app/)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/flowstxte/DesignSkills/refs/heads/main/ss.jpg" width=60%/>
