@@ -1,8 +1,8 @@
-## The structure of a DESIGN.md file
+# The Structure of a DESIGN.md File
 
 A `DESIGN.md` file has 9 standard sections. Each one is a layer the agent reaches for when making a specific design decision.
 
-### 1. Visual theme and atmosphere
+## 1. Visual theme and atmosphere
 
 The top of the file describes the brand's feel. Not tokens or pixels. Attitude and philosophy.
 
@@ -17,7 +17,7 @@ developer tooling: monospaced accents, tight spacing, muted palettes.
 
 This section answers "why does it look like this?" The other 8 sections tell you what. This one tells you why.
 
-### 2. Color palette and roles
+## 2. Color palette and roles
 
 Every color is defined with its hex value and its semantic role. The file doesn't just say "blue." It says what that blue does.
 
@@ -34,7 +34,7 @@ Every color is defined with its hex value and its semantic role. The file doesn'
 | Border default | --border-default | #2A2A2A |
 ```
 
-### 3. Typography rules
+## 3. Typography rules
 
 Font family, size hierarchy, weight, line-height, and letter-spacing, all in a table, with context for which one goes where.
 
@@ -51,7 +51,7 @@ Font: Inter (UI), JetBrains Mono (code)
 | Caption   | 12px | 400    | 1.4         | 0              |
 ```
 
-### 4. Component styles
+## 4. Component styles
 
 Style definitions for core elements like buttons, cards, inputs, navigation, and badges, including all states. Padding, border-radius, shadow, hover/focus/disabled behavior.
 
@@ -77,7 +77,7 @@ Style definitions for core elements like buttons, cards, inputs, navigation, and
 - Shadow: none (depth comes from borders only)
 ```
 
-### 5. Layout principles
+## 5. Layout principles
 
 Spacing scale, grid system, container widths, whitespace approach, and border-radius scale.
 
@@ -91,7 +91,7 @@ Spacing scale, grid system, container widths, whitespace approach, and border-ra
 - Border-radius scale: 4px (badge), 6px (button), 8px (card), 12px (modal)
 ```
 
-### 6. Depth and elevation
+## 6. Depth and elevation
 
 The shadow system, surface hierarchy, and elevation levels. Which layer gets which shadow, with specific rgba values.
 
@@ -106,7 +106,7 @@ The shadow system, surface hierarchy, and elevation levels. Which layer gets whi
 | Level 3 | Modal, dialog | 0 8px 24px rgba(0,0,0,0.5) |
 ```
 
-### 7. Do's and don'ts
+## 7. Do's and don'ts
 
 Design boundaries and anti-patterns. The "don't" list matters at least as much as the "do" list.
 
@@ -127,7 +127,7 @@ Don't:
 - Don't exceed 3 font weights on a single page
 ```
 
-### 8. Responsive behavior
+## 8. Responsive behavior
 
 Breakpoints, touch target sizes, and how things collapse on smaller screens.
 
@@ -144,7 +144,7 @@ Breakpoints, touch target sizes, and how things collapse on smaller screens.
 - Font sizes don't drop below 13px on mobile
 ```
 
-### 9. Agent prompt guide
+## 9. Agent prompt guide
 
 A quick-reference color summary and ready-to-use component prompts for the agent.
 
